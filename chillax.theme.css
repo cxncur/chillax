@@ -1,16 +1,16 @@
 /**
  * @name chillax
- * @author skidqs
+ * @author concur
  * @version 2.1.2
  * @description The theme where calm meets customization.
- * @source https://github.com/skidqs/chillax
+ * @source https://github.com/cxncur/chillax
  */
 
-@import url("https://skidqs.github.io/chillax/chillax.css");
+@import url("https://cxncur.github.io/chillax/chillax.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 
 :root {
-    --user-name: "skidqs";
+    --user-name: "concur";
     --font-name: Poppins;
     --font-size: 13px;
     --group-chat-font: "Monoton";
